@@ -1,6 +1,6 @@
 <h1 align="center">🌟 안녕하세요, 이정훈입니다! 👋</h1>
 
-<p align="center">저는 **백엔드**와 **데이터분야**에 관심을 가지고 있으며, **다양한 기술을 배우는 것에 열정적인 사람**입니다.</p>
+<p align="center">저는 <strong>백엔드</strong>와 <strong>데이터분야</strong>에 관심을 가지고 있으며, <strong>다양한 기술을 배우는 것에 열정적인 사람</strong>입니다.</p>
 
 <div align="center">
 <h2>🔧 기술 스택</h2>
