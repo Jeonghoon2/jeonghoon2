@@ -1,6 +1,6 @@
 <h1 align="center">🌟 안녕하세요, 이정훈입니다! 👋</h1>
 
-<p align="center">💻 IT 개발에 열정을 가진 **개발자**입니다.</p>
+<p align="center">💻 IT 개발에 열정을 가진 <strong>개발자</strong>입니다.</p>
 
 <div align="center">
 <h2>🔧 기술 스택</h2>
@@ -43,15 +43,8 @@
 </p>
 
 <div align="center">
-<h2>🚀 현재 배우고 있는 것</h2>
-<p>✨ 플레이데이터 데이터 엔지니어링 32기 수강중</p>
-</div>
-
-<div align="center">
 <h2>🌟 현재 진행중인 프로젝트</h2>
-<p>📌 사용자 맞춤형 여행 추천 시스템</p>
-<p>📌 링크 : https://github.com/TripCok</p>
-<p>📌 담당 업무 : 서버 개발, ETL 파이프라인 개발</p>
+<p><strong>사용자 맞춤형 여행 추천 시스템</strong> __ <a href="https://github.com/TripCok"> 링크 </a> __ [서버 개발,ETL 파이프라인 개발] </p>
 </div>
 
 <h3 align="center">📫 연락처</h3>
